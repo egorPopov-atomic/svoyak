@@ -1,0 +1,66 @@
+{
+  "packName": "Большая игра: Сезон 1",
+  "rounds": [
+    {
+      "roundId": "r_1",
+      "roundName": "Первый раунд",
+      "topics": [
+        {
+          "topicId": "t_1",
+          "topicName": "Web Разработка",
+          "questions": [
+            { "id": "q11", "price": 100, "text": "Язык стилей для веб-страниц", "answer": "CSS", "isPlayed": false },
+            { "id": "q12", "price": 200, "text": "Как называется логотип GitHub?", "answer": "Octocat (Октокот)", "isPlayed": false },
+            { "id": "q13", "price": 300, "text": "Хук в React для работы с состоянием", "answer": "useState", "isPlayed": false },
+            { "id": "q14", "price": 400, "text": "Что означает буква 'O' в аббревиатуре SOLID?", "answer": "Open-Closed Principle", "isPlayed": false },
+            { "id": "q15", "price": 500, "text": "Создатель языка JavaScript", "answer": "Брендан Эйх", "isPlayed": false }
+          ]
+        },
+        {
+          "topicId": "t_2",
+          "topicName": "Видеоигры",
+          "questions": [
+            { "id": "q21", "price": 100, "text": "Игра, где нужно собирать блоки и убегать от криперов", "answer": "Minecraft", "isPlayed": false },
+            { "id": "q22", "price": 200, "text": "Как зовут главного героя серии Zelda?", "answer": "Линк", "isPlayed": false },
+            { "id": "q23", "price": 300, "text": "Компания, создавшая движок Unreal Engine", "answer": "Epic Games", "isPlayed": false },
+            { "id": "q24", "price": 400, "text": "В каком городе происходит действие Cyberpunk 2077?", "answer": "Найт-Сити", "isPlayed": false },
+            { "id": "q25", "price": 500, "text": "Самая продаваемая консоль в истории", "answer": "PlayStation 2", "isPlayed": false }
+          ]
+        },
+        {
+          "topicId": "t_3",
+          "topicName": "Кинематограф",
+          "questions": [
+            { "id": "q31", "price": 100, "text": "Кто сыграл Железного Человека?", "answer": "Роберт Дауни мл.", "isPlayed": false },
+            { "id": "q32", "price": 200, "text": "Режиссер фильмов 'Начало' и 'Интерстеллар'", "answer": "Кристофер Нолан", "isPlayed": false },
+            { "id": "q33", "price": 300, "text": "Какого цвета таблетку выбрал Нео?", "answer": "Красную", "isPlayed": false },
+            { "id": "q34", "price": 400, "text": "Первое правило Бойцовского клуба", "answer": "Не упоминать о Бойцовском клубе", "isPlayed": false },
+            { "id": "q35", "price": 500, "text": "Сколько 'Оскаров' у фильма 'Властелин колец: Возвращение короля'?", "answer": "Одиннадцать", "isPlayed": false }
+          ]
+        },
+        {
+          "topicId": "t_4",
+          "topicName": "География",
+          "questions": [
+            { "id": "q41", "price": 100, "text": "Столица Франции", "answer": "Париж", "isPlayed": false },
+            { "id": "q42", "price": 200, "text": "Самая длинная река в мире", "answer": "Амазонка (или Нил)", "isPlayed": false },
+            { "id": "q43", "price": 300, "text": "На каком континенте нет пустынь?", "answer": "Европа", "isPlayed": false },
+            { "id": "q44", "price": 400, "text": "Какое государство самое маленькое в мире?", "answer": "Ватикан", "isPlayed": false },
+            { "id": "q45", "price": 500, "text": "Столица Австралии", "answer": "Канберра", "isPlayed": false }
+          ]
+        },
+        {
+          "topicId": "t_5",
+          "topicName": "Космос",
+          "questions": [
+            { "id": "q51", "price": 100, "text": "Самая близкая к Солнцу планета", "answer": "Меркурий", "isPlayed": false },
+            { "id": "q52", "price": 200, "text": "Кто был первым человеком в космосе?", "answer": "Юрий Гагарин", "isPlayed": false },
+            { "id": "q53", "price": 300, "text": "Как называется наша галактика?", "answer": "Млечный Путь", "isPlayed": false },
+            { "id": "q54", "price": 400, "text": "Самый большой вулкан в Солнечной системе находится на...", "answer": "Марсе (Олимп)", "isPlayed": false },
+            { "id": "q55", "price": 500, "text": "Название телескопа, запущенного на замену Хабблу в 2021 году", "answer": "Джеймс Уэбб", "isPlayed": false }
+          ]
+        }
+      ]
+    }
+  ]
+}

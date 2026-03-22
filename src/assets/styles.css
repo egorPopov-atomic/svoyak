@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Глобальный фон, который сгенерила нейронка */
+body {
+  @apply bg-slate-950 text-slate-200 font-sans selection:bg-blue-500/30;
+  background-image: radial-gradient(ellipse at center, #0f172a, #020617, black);
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+}
