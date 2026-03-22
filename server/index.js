@@ -91,7 +91,7 @@ io.on('connection', (socket) => {
 });
 
 // Обработка всех остальных маршрутов под фронтенд (SPA)
-app.get('*', (req, res) => {
+app.get('(.*)', (req, res) => {
   res.sendFile(path.join(frontendPath, 'index.html'), (err) => {
     if (err) {
       // Если билда ещё нет, просто отдаём 404 для API или ошибку
